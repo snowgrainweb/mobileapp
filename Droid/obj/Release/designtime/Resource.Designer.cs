@@ -46,6 +46,9 @@ namespace SnowGrain.Droid
 			public static int icon = 0;
 			
 			// aapt resource value: 0
+			public static int ic_launcher = 0;
+			
+			// aapt resource value: 0
 			public static int reminders = 0;
 			
 			// aapt resource value: 0
@@ -59,6 +62,9 @@ namespace SnowGrain.Droid
 			
 			// aapt resource value: 0
 			public static int todo = 0;
+			
+			// aapt resource value: 0
+			public static int web_hi_res_512 = 0;
 			
 			static Drawable()
 			{

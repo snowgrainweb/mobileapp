@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 using Xamarin.Forms;
 
-namespace DishApp.XAML
+namespace SnowGrain.XAML
 {
     public partial class MyPage : ContentPage
     {

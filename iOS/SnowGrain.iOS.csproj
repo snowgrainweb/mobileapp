@@ -25,7 +25,7 @@
     <MtouchDebug>true</MtouchDebug>
     <MtouchSdkVersion>11.2</MtouchSdkVersion>
 <CodesignKey>iPhone Developer</CodesignKey>
-<AssemblyName>SnowGrainiOS</AssemblyName>
+<AssemblyName>iSnowGrainiOS</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
     <DebugType>full</DebugType>
@@ -37,6 +37,7 @@
     <MtouchArch>ARMv7, ARM64</MtouchArch>
     <ConsolePause>false</ConsolePause>
     <CodesignKey>iPhone Developer</CodesignKey>
+<AssemblyName>iSnowGrain</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugType>full</DebugType>
@@ -47,7 +48,7 @@
     <MtouchArch>i386, x86_64</MtouchArch>
     <ConsolePause>false</ConsolePause>
     <MtouchLink>None</MtouchLink>
-    <AssemblyName>SnowGrainiOS</AssemblyName>
+    <AssemblyName>iSnowGrainiOS</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
     <DebugSymbols>true</DebugSymbols>
@@ -60,9 +61,9 @@
     <ConsolePause>false</ConsolePause>
     <MtouchArch>ARMv7, ARM64</MtouchArch>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
-    <MtouchProfiling>true</MtouchProfiling>
     <CodesignKey>iPhone Developer</CodesignKey>
     <MtouchDebug>true</MtouchDebug>
+<AssemblyName>iSnowGrain</AssemblyName>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms">
