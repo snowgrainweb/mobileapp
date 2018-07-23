@@ -1,0 +1,10 @@
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPage.csproj.CoreCompileInputs.cache
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPage.XAML.ContactsPage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPage.XAML.MainPage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPage.XAML.MasterPage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPage.XAML.ReminderPage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPage.XAML.TodoListPage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPage.AssemblyInfoInputs.cache
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPage.AssemblyInfo.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPage.dll
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/MasterDetailPage.pdb

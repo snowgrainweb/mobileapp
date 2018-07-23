@@ -1,0 +1,2 @@
+/Users/Riju/Downloads/MasterDetailPage/Droid/obj/Debug/DishApp.Droid.csprojResolveAssemblyReference.cache
+/Users/Riju/Downloads/MasterDetailPage/Droid/obj/Debug/DishApp.Droid.csproj.CoreCompileInputs.cache

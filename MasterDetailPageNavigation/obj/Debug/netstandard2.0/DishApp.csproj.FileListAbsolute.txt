@@ -1,0 +1,14 @@
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.csproj.CoreCompileInputs.cache
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.XAML.ArticlesPage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.XAML.HomePage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.XAML.MainPage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.XAML.MasterPage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.XAML.OffersPage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.XAML.ProductsPage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.XAML.ReminderPage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.XAML.ServicePage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.XAML.TodoListPage.xaml.g.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.AssemblyInfoInputs.cache
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.AssemblyInfo.cs
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.dll
+/Users/Riju/Downloads/MasterDetailPage/MasterDetailPageNavigation/obj/Debug/netstandard2.0/DishApp.pdb
